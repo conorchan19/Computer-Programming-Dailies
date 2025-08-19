@@ -1,1 +1,1 @@
-# Computer-Programming-Daily
+# Computer-Programming-Dailies
